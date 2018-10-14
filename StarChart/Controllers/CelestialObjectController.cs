@@ -37,7 +37,7 @@ namespace StarChart.Controllers
             if (objs.Any() == false)
             {
                 return NotFound();
-            }C:\Users\anguzy\Documents\GitHub\AspNetCore-StarChartAPI\StarChart\Controllers\CelestialObjectController.cs
+            }
 
             foreach (var obj in objs)
             {
